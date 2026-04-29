@@ -14,6 +14,7 @@ function App() {
           <li>✅ SCSS Modules + картинки</li>
           <li>✅ ESLint</li>
           <li>✅ Запуск без ошибок</li>
+          <li>✅ Добавлен Vitest</li>
         </ul>
       </div>
     </div>
